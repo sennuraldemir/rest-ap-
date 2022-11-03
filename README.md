@@ -8,3 +8,6 @@
 
 # USERS SORGU SONUCU
 ![users sorgu sonucu](https://user-images.githubusercontent.com/99283497/199761253-87cb4dac-599c-4af0-b748-39f08d4549ec.jpg)
+
+# CSV DOSYASI
+![csv dosyası resmi](https://user-images.githubusercontent.com/99283497/199762174-16834583-d855-4d4a-b61b-3591889d23fa.jpg)
